@@ -33,7 +33,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'bootstrap'
 gem 'redis'
-
+gem 'wdm', '>= 0.1.0' 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
